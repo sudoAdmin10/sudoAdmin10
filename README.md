@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **1210114@alumno.um.edu.mx.com**
+- 📫 How to reach me **alandeltoro138@gmail.com**
 
 - ⚡ Remember that if you can imagine it you can program it
 
@@ -30,28 +30,36 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+      height="40" /> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      alt="javascript" width="40" height="40" /> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typeScript" width="40" height="40" />
+  </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /> </a> </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+      alt="postgresql" width="40" height="40" /> </a> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      alt="mongodb" width="40" height="40" /> </a> </a>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      alt="nodejs" width="40" height="40" /> </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      alt="react" width="40" height="40" /> </a>
+    <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
+      alt="react" width="40" height="40" /> </a>
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
 
