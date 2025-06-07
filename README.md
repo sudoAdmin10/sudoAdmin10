@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/sudoAdmin10/sudoAdmin10/blob/main/animation_500_kxa883sd.gif" alt="sudoAdmin10" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="sudoAdmin10" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
